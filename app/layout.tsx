@@ -4,6 +4,7 @@ import "./globals.css";
 import Navbar from "@/components/layout/Navbar";
 import Footer from "@/components/layout/Footer";
 import WhatsAppButton from "@/components/shared/WhatsAppButton";
+import { Analytics } from "@vercel/analytics/next";
 
 const poppins = Poppins({
   subsets: ["latin"],
@@ -69,6 +70,7 @@ export default function RootLayout({
         </main>
         <Footer />
         <WhatsAppButton />
+        <Analytics />
       </body>
     </html>
   );
