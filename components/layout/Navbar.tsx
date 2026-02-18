@@ -31,7 +31,7 @@ export default function Navbar() {
           <Link href="/" className="flex items-center space-x-3">
             <Image
               src="/logo.png"
-              alt="Fagars & Fasheg Logo"
+              alt="fagarsfasheg Logo"
               width={50}
               height={50}
               className="object-contain"

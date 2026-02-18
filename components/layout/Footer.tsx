@@ -26,7 +26,7 @@ export default function Footer() {
             <Link href="/" className="flex items-center space-x-3 mb-4">
               <Image
                 src="/logo.png"
-                alt="Fagars & Fasheg Logo"
+                alt="fagarsfasheg Logo"
                 width={40}
                 height={40}
                 className="object-contain"
@@ -156,7 +156,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-sm text-gray-400">
-            © {currentYear} Fagars & Fasheg. All rights reserved.
+            © {currentYear} fagarsfasheg. All rights reserved.
           </p>
         </div>
       </div>
