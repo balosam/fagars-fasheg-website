@@ -19,7 +19,7 @@ export default function ContactPage() {
     company: "",
     subject: "",
     message: "",
-    to_email: "fagarsfasheg2301@gmail.com", // Your receiving email
+    to_email: "Fagars Fasheg2301@gmail.com", // Your receiving email
   });
 
   const [isSubmitting, setIsSubmitting] = useState(false);
@@ -67,7 +67,7 @@ export default function ContactPage() {
           company: "",
           subject: "",
           message: "",
-          to_email: "fagarsfasheg2301@gmail.com",
+          to_email: "Fagars Fasheg2301@gmail.com",
         });
 
         // Reset form element
@@ -95,8 +95,8 @@ export default function ContactPage() {
     {
       icon: Mail,
       title: "Email",
-      content: "fagarsfasheg2301@gmail.com",
-      link: "mailto:fagarsfasheg2301@gmail.com",
+      content: "Fagars Fasheg2301@gmail.com",
+      link: "mailto:Fagars Fasheg2301@gmail.com",
     },
     {
       icon: Phone,

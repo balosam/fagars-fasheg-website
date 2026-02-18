@@ -26,7 +26,7 @@ export default function Footer() {
             <Link href="/" className="flex items-center space-x-3 mb-4">
               <Image
                 src="/logo.png"
-                alt="fagarsfasheg Logo"
+                alt="Fagars Fasheg Logo"
                 width={40}
                 height={40}
                 className="object-contain"
@@ -120,10 +120,10 @@ export default function Footer() {
               <li className="flex items-start space-x-3">
                 <Mail className="h-5 w-5 text-brand-blue mt-0.5 flex-shrink-0" />
                 <a
-                  href="mailto:fagarsfasheg2301@gmail.com"
+                  href="mailto:Fagars Fasheg2301@gmail.com"
                   className="text-sm hover:text-brand-blue transition-colors break-all"
                 >
-                  fagarsfasheg2301@gmail.com
+                  Fagars Fasheg2301@gmail.com
                 </a>
               </li>
               <li className="flex items-start space-x-3">
@@ -156,7 +156,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-sm text-gray-400">
-            © {currentYear} fagarsfasheg. All rights reserved.
+            © {currentYear} Fagars Fasheg. All rights reserved.
           </p>
         </div>
       </div>

@@ -79,7 +79,7 @@ export default function AboutPage() {
               </h2>
               <div className="space-y-6 text-lg text-gray-700 leading-relaxed">
                 <p>
-                  fagarsfasheg was founded with a clear vision: to bridge the gap between quality producers
+                  Fagars Fasheg was founded with a clear vision: to bridge the gap between quality producers
                   and global markets. We recognized the untapped potential in Nigeria's agricultural sector,
                   the growing demand for quality food products, and the need for reliable electronics distribution.
                 </p>
@@ -99,7 +99,7 @@ export default function AboutPage() {
             <div className="relative h-[500px] rounded-2xl overflow-hidden shadow-2xl">
               <Image
                 src="/images/about/office.jpg"
-                alt="fagarsfasheg Office"
+                alt="Fagars Fasheg Office"
                 fill
                 className="object-cover"
                 sizes="(max-width: 1024px) 100vw, 50vw"

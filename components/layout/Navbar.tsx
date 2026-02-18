@@ -31,7 +31,7 @@ export default function Navbar() {
           <Link href="/" className="flex items-center space-x-3">
             <Image
               src="/logo.png"
-              alt="fagarsfasheg Logo"
+              alt="Fagars Fasheg Logo"
               width={50}
               height={50}
               className="object-contain"
@@ -39,7 +39,7 @@ export default function Navbar() {
             />
             <div className="text-xl md:text-2xl font-bold">
               <span className="text-brand-blue">Fagars</span>
-              <span className="text-brand-green"> & Fasheg</span>
+              <span className="text-brand-green">  Fasheg</span>
             </div>
           </Link>
 

@@ -19,21 +19,21 @@ const lato = Lato({
 
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'),
-  title: "fagarsfasheg | Import & Export Excellence",
+  title: "Fagars Fasheg | Import & Export Excellence",
   description: "Your trusted partner in import and export across farm produce, food products, and electronics. Delivering quality globally from Nigeria.",
   keywords: "import, export, farm produce, food products, electronics, Nigeria, international trade, logistics, distribution",
-  authors: [{ name: "fagarsfasheg" }],
+  authors: [{ name: "Fagars Fasheg" }],
   openGraph: {
-    title: "fagarsfasheg | Import & Export Excellence",
+    title: "Fagars Fasheg | Import & Export Excellence",
     description: "Your trusted partner in import and export across farm produce, food products, and electronics.",
-    url: "https://fagarsfasheg.com",
-    siteName: "fagarsfasheg",
+    url: "https://Fagars Fasheg.com",
+    siteName: "Fagars Fasheg",
     images: [
       {
         url: "/logo.png",
         width: 1200,
         height: 630,
-        alt: "fagarsfasheg Logo",
+        alt: "Fagars Fasheg Logo",
       },
     ],
     locale: "en_US",
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "fagarsfasheg | Import & Export Excellence",
+    title: "Fagars Fasheg | Import & Export Excellence",
     description: "Your trusted partner in import and export across farm produce, food products, and electronics.",
     images: ["/logo.png"],
   },

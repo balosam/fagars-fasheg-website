@@ -61,7 +61,7 @@ export default function CTASection() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl mx-auto">
             {/* Email Card */}
             <a 
-              href="mailto:fagarsfasheg2301@gmail.com"
+              href="mailto:Fagars Fasheg2301@gmail.com"
               className="group bg-white/10 backdrop-blur-md border border-white/20 rounded-2xl p-6 hover:bg-white/20 transition-all duration-300 hover:scale-105"
             >
               <div className="flex items-center gap-4">
@@ -70,7 +70,7 @@ export default function CTASection() {
                 </div>
                 <div className="text-left">
                   <p className="text-blue-200 text-sm font-medium mb-1">Email Us</p>
-                  <p className="text-white font-semibold">fagarsfasheg2301@gmail.com</p>
+                  <p className="text-white font-semibold">Fagars Fasheg2301@gmail.com</p>
                 </div>
               </div>
             </a>
